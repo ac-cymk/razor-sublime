@@ -2,7 +2,9 @@
 ---
 
 name: Razor C#
-file_extensions: cshtml
+file_extensions: 
+  - cshtml
+  - razor
 scope: source.razor embed.text.html
 version: 2
 
