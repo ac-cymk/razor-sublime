@@ -7,10 +7,6 @@ Sublime Text 4 build 4075 or higher.
 
 ## Installation
 
-### Package Control
-
-[Install via Package Control](https://packagecontrol.io/)
-
 ### Manually
 
 1. Go to your Packages subdirectory under the ST3's data directory:
@@ -19,8 +15,8 @@ Sublime Text 4 build 4075 or higher.
     * Windows: `%APPDATA%\Sublime Text 3\Packages\`
 2. Clone this repository here:
 
-        git clone https://github.com/LoneBoco/razor-sublime.git
-3. Restart SublimeText.
+        git clone https://github.com/ac-cymk/razor-sublime.git
+3. Restart Sublime Text.
 
 ## License
 
